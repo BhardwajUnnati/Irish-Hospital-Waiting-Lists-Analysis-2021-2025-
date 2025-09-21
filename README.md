@@ -62,8 +62,7 @@ The goal is to highlight **key problem areas** in healthcare delivery and showca
 ---
 
 ### 5. Heatmap: Total Patients by Hospital and Year
-![Heatmap](images/hospital_heatmap.png)Irish-Hospital-Waiting-Lists-Analysis-2021-2025-
-/Heatmap.png 
+![Heatmap](images/hospital_heatmap.png)
 - **Galway, Connolly, Cork, Waterford, Mater** stand out with highest loads.  
 - Smaller hospitals show lighter shades (lower patient counts).  
    Pressure is **concentrated in a few hospitals**.  
